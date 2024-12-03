@@ -1,0 +1,41 @@
+{
+  "common": {
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "vs": "VS"
+  },
+  "matches": {
+    "noMatches": "No matches scheduled for this date",
+    "selectMatch": "Select matches to generate visuals",
+    "customPosters": "CUSTOM YOUR POSTERS",
+    "backgroundChange": "Background change",
+    "changeTypography": "Change typography",
+    "clearAll": "Clear all",
+    "selectBackground": "Select Background",
+    "selectTypography": "Select Typography"
+  },
+  "visuals": {
+    "story": "Story",
+    "square": "Square",
+    "download": "Download",
+    "delete": "Delete",
+    "noMedia": "No media saved",
+    "startCreating": "Start by creating visuals for your matches"
+  },
+  "profile": {
+    "title": "PROFILE",
+    "accountInfo": "ACCOUNT INFO",
+    "publicProfile": "Public profile",
+    "businessProfile": "Business profile",
+    "language": "Language",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "company": "Company",
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "common": {
+    "back": "Volver",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "vs": "VS"
+  },
+  "matches": {
+    "noMatches": "No hay partidos programados para esta fecha",
+    "selectMatch": "Seleccione partidos para generar visuales",
+    "customPosters": "PERSONALIZA TUS CARTELES",
+    "backgroundChange": "Cambiar fondo",
+    "changeTypography": "Cambiar tipografía",
+    "clearAll": "Borrar todo",
+    "selectBackground": "Seleccionar fondo",
+    "selectTypography": "Seleccionar tipografía"
+  },
+  "visuals": {
+    "story": "Story",
+    "square": "Cuadrado",
+    "download": "Descargar",
+    "delete": "Eliminar",
+    "noMedia": "No hay medios guardados",
+    "startCreating": "Empiece creando visuales para sus partidos"
+  },
+  "profile": {
+    "title": "PERFIL",
+    "accountInfo": "INFO DE LA CUENTA",
+    "publicProfile": "Perfil público",
+    "businessProfile": "Perfil profesional",
+    "language": "Idioma",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "company": "Empresa",
+    "address": "Dirección",
+    "email": "Email",
+    "phone": "Teléfono"
+  }
+}

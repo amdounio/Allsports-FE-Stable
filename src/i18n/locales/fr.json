@@ -1,0 +1,41 @@
+{
+  "common": {
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "vs": "VS"
+  },
+  "matches": {
+    "noMatches": "Aucun match prévu pour cette date",
+    "selectMatch": "Sélectionnez des matchs pour générer des visuels",
+    "customPosters": "PERSONNALISEZ VOS AFFICHES",
+    "backgroundChange": "Changer l'arrière-plan",
+    "changeTypography": "Changer la typographie",
+    "clearAll": "Tout effacer",
+    "selectBackground": "Sélectionner l'arrière-plan",
+    "selectTypography": "Sélectionner la typographie"
+  },
+  "visuals": {
+    "story": "Story",
+    "square": "Carré",
+    "download": "Télécharger",
+    "delete": "Supprimer",
+    "noMedia": "Aucun média sauvegardé",
+    "startCreating": "Commencez par créer des visuels pour vos matchs"
+  },
+  "profile": {
+    "title": "PROFIL",
+    "accountInfo": "INFOS DU COMPTE",
+    "publicProfile": "Profil public",
+    "businessProfile": "Profil professionnel",
+    "language": "Langue",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "company": "Entreprise",
+    "address": "Adresse",
+    "email": "Email",
+    "phone": "Téléphone"
+  }
+}
